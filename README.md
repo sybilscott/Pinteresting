@@ -3,4 +3,4 @@
 This is the pinteresting sample application for 
 [*One Month Rails*](http://onemonthrails.com)
 
-by [*Sybil Scott*](mailto:sybil.scott@houstontexans.com)
+by [Sybil Scott](mailto:sybil.scott@houstontexans.com)
